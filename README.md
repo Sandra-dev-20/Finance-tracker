@@ -6,7 +6,8 @@ rarely-changing infrastructure and frequent app deployments.
 
 ## Architecture
 
-![My diagram.drawio](Desktop/architecture.png)
+![Architecture Diagram](architecture.png)
+
 
 ## Prerequisites
 
