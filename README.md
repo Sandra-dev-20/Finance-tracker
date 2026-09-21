@@ -6,7 +6,7 @@ rarely-changing infrastructure and frequent app deployments.
 
 ## Architecture
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](images/architecture.png)
 
 
 
