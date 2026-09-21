@@ -6,7 +6,7 @@ rarely-changing infrastructure and frequent app deployments.
 
 ## Architecture
 
-<img src="(My diagram.drawio.png" alt="Architecture Diagram">
+<img src="(My diagram.drawio.png)" alt="Architecture Diagram">
 
 
 
