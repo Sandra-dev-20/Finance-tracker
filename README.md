@@ -6,7 +6,8 @@ rarely-changing infrastructure and frequent app deployments.
 
 ## Architecture
 
-![Architecture Diagram](architecture.png)
+<img src="(My diagram.drawio.png" alt="Architecture Diagram">
+
 
 
 ## Prerequisites
